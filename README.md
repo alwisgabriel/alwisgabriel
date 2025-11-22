@@ -11,13 +11,14 @@ Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, vo
 📧 **Email:** → *alwisgabriel@gmai.com*
 
 <a href="#">
-<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" 
-     width="335" 
-     height="243" 
-     align="right" 
-     style="margin-left: 20px; margin-bottom: 10px;" 
+<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108"
+     width="335"
+     height="243"
+     align="right"
+     style="margin-top: 15px; margin-left: 20px; margin-bottom: 10px;"
      alt="Olá!">
 </a>
+
 
 
 ---
