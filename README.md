@@ -21,7 +21,7 @@ Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, vo
 
 
 
----
+
 
 # ### 🧩 Tecnologias que estou estudando e utilizando
 
