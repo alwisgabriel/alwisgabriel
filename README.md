@@ -3,7 +3,7 @@
 Meu nome é **Gabriel**, e sou um **desenvolvedor iniciante**, apaixonado por programação, tecnologia e criação de projetos que realmente fazem a diferença.
 Atualmente estudo intensamente **JavaScript, TypeScript, HTML, CSS e desenvolvimento web**, e passo praticamente **todo meu tempo livre** aprendendo e construindo coisas novas 
 
-Meu objetivo é me tornar um **grande programador full-stack**, capaz de criar aplicações completas, bonitas, rápidas e úteis — e eu estou seguindo um ritmo forte para isso.
+Meu objetivo é me tornar um **grande programador full-stack**, capaz de criar aplicações completas, bonitas, rápidas e úteis.
 
 Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, você pode falar comigo pelo **WhatsApp** ou **email**:
 
