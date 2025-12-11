@@ -1,7 +1,7 @@
 # ## Olá! 👋
 
 Meu nome é **Gabriel**, e sou um **desenvolvedor iniciante**, apaixonado por programação, tecnologia e criação de projetos que realmente fazem a diferença.
-Atualmente estudo intensamente **JavaScript, TypeScript, HTML, CSS e desenvolvimento web**, e passo praticamente **todo meu tempo livre** aprendendo e construindo coisas novas 
+Atualmente estudo intensamente **JavaScript, TypeScript, HTML, CSS e desenvolvimento web**, e passo praticamente **todo meu tempo livre** aprendendo e construindo coisas novas.
 
 Meu objetivo é me tornar um **grande programador full-stack**, capaz de criar aplicações completas, bonitas, rápidas e úteis.
 
@@ -19,9 +19,7 @@ Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, vo
      alt="Olá!">
 </a>
 
-
-
-
+---
 
 # ### 🧩 Tecnologias que estou estudando e utilizando
 
@@ -31,16 +29,14 @@ Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, vo
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-232323?style=flat&labelColor=06B6D4&logo=tailwindcss&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
 
 ---
 
 ### ⚙️ Back-end
 
-
-
 ![Node.js](https://img.shields.io/badge/-Node.js-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
+![Delphi](https://img.shields.io/badge/-Delphi-232323?style=flat&labelColor=EE1F35&logo=delphi&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=F05032&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-232323?style=flat&labelColor=000000&logo=github&logoColor=ffffff)
 
@@ -48,9 +44,8 @@ Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, vo
 
 ### ☁️ Ferramentas e Infra
 
-![VSCode](https://img.shields.io/badge/-VSCode-232323?style=flat&labelColor=007ACC&logo=visualstudiocode&logoColor=ffffff)
+![VSCode](https://img.shields.io/badge/-VSCode-232323?style=flat&labelColor=007ACC&logo=visualstudiocode&logoColor=ffffff)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=336791&logo=postgresql&logoColor=ffffff)
 
 ---
-
-
 
