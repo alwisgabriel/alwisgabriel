@@ -6,9 +6,8 @@ Atualmente estudo intensamente **JavaScript, TypeScript, HTML, CSS e desenvolvim
 Meu objetivo é me tornar um **grande programador full-stack**, capaz de criar aplicações completas, bonitas, rápidas e úteis.
 
 Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, você pode falar comigo pelo **WhatsApp** ou **email**:
-
-📲 **WhatsApp:** → *+55 (48) 99972-8612*  
-📧 **Email:** → *alwisgabriel@gmai.com*
+ 
+📧 **Email:** → *alwisgabriel@gmail.com*
 
 <a href="#">
 <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108"
