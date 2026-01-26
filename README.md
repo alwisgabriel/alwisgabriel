@@ -1,4 +1,4 @@
-# ## Olá! 👋
+### Olá! 👋
 
 Meu nome é **Gabriel**, e sou um **desenvolvedor iniciante**, apaixonado por programação, tecnologia e criação de projetos que realmente fazem a diferença.
 Atualmente estudo intensamente **JavaScript, TypeScript, HTML, CSS e desenvolvimento web**, e passo praticamente **todo meu tempo livre** aprendendo e construindo coisas novas.
@@ -20,7 +20,7 @@ Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, vo
 
 ---
 
-# ### 🧩 Tecnologias que estou estudando e utilizando
+### 🧩 Tecnologias que estou estudando e utilizando
 
 ### 🖥️ Front-end
 
