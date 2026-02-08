@@ -1,11 +1,11 @@
-### Olá! 👋
+# 🧑‍💻 Gabriel Alves
 
-Meu nome é **Gabriel**, e sou um **desenvolvedor iniciante**, apaixonado por programação, tecnologia e criação de projetos que realmente fazem a diferença.
-Atualmente estudo intensamente **JavaScript, TypeScript, HTML, CSS e desenvolvimento web**, e passo praticamente **todo meu tempo livre** aprendendo e construindo coisas novas.
+**`Desenvolvedor FrontEnd`**
 
+Meu nome é **Gabriel**, tenho 15 anos e sou natural de Santa Catarina. 
 Meu objetivo é me tornar um **grande programador full-stack**, capaz de criar aplicações completas, bonitas, rápidas e úteis.
 
-Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, você pode falar comigo pelo **WhatsApp** ou **email**:
+Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, você pode falar comigo pelo o meu **email**:
  
 📧 **Email:** → *alwisgabriel@gmail.com*
 
@@ -20,12 +20,14 @@ Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, vo
 
 ---
 
-### 🧩 Tecnologias que estou estudando e utilizando
+### 🧩 Tecnologias que estou estudando ou utilizando
 
 ### 🖥️ Front-end
 
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
+
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-232323?logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
@@ -35,7 +37,6 @@ Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, vo
 ### ⚙️ Back-end
 
 ![Node.js](https://img.shields.io/badge/-Node.js-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
-![Delphi](https://img.shields.io/badge/-Delphi-232323?style=flat&labelColor=EE1F35&logo=delphi&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=F05032&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-232323?style=flat&labelColor=000000&logo=github&logoColor=ffffff)
 
@@ -47,4 +48,9 @@ Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, vo
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=336791&logo=postgresql&logoColor=ffffff)
 
 ---
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alwisgabriel&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alwisgabriel&layout=compact&theme=tokyonight)
+
 
