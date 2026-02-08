@@ -48,7 +48,5 @@ Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, vo
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=336791&logo=postgresql&logoColor=ffffff)
 
 ---
-[![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=alwisgabriel)](https://github.com/alwisgabriel/github-readme-stats)
-
 
 
