@@ -22,7 +22,7 @@ Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, vo
 
 ### 🧩 Tecnologias que estou estudando ou utilizando
 
-### 🖥️ Front-end ▲
+### 🖥️ Front-end 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat\&labelColor=E34F26\&logo=html5\&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat\&labelColor=1572B6\&logo=css3\&logoColor=ffffff)
@@ -34,12 +34,13 @@ Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, vo
 
 ---
 
-### ⚙️ Back-end 🟢🦀
+### ⚙️ Back-end 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-232323?style=flat\&labelColor=000000\&logo=nodedotjs\&logoColor=339933)
 ![Rust](https://img.shields.io/badge/-Rust-232323?style=flat\&labelColor=000000\&logo=rust\&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-232323?style=flat\&labelColor=F05032\&logo=git\&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-232323?style=flat\&labelColor=000000\&logo=github\&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-232323?style=flat&labelColor=000000&logo=openjdk&logoColor=ffffff)
 
 ---
 
