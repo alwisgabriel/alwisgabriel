@@ -1,6 +1,6 @@
 # 🧑‍💻 Gabriel Alves
 
-**`Desenvolvedor FrontEnd`**
+**`Desenvolvedor Fullstack`**
 
 Meu nome é **Gabriel**, tenho 15 anos e sou natural de Santa Catarina.
 Meu objetivo é me tornar um **grande programador full-stack**, capaz de criar aplicações completas, bonitas, rápidas e úteis.
