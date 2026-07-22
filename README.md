@@ -1,50 +1,43 @@
-# 🧑‍💻 Gabriel Alves
+# Gabriel Alves
 
-**`Desenvolvedor Fullstack`**
+**`Backend Developer`**
 
-Meu nome é **Gabriel**, tenho 15 anos e sou natural de Santa Catarina.
-Meu objetivo é me tornar um **grande programador full-stack**, capaz de criar aplicações completas, bonitas, rápidas e úteis.
+Backend developer focused on building clean, scalable and reliable applications.
 
-Se quiser trocar uma ideia, colaborar em projetos ou me mandar algum desafio, você pode falar comigo pelo o meu **email**:
-
-📧 **Email:** → *[alwisgabriel@gmail.com](mailto:alwisgabriel@gmail.com)*
-
-<a href="#">
-<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108"
-     width="335"
-     height="243"
-     align="right"
-     style="margin-top: 15px; margin-left: 20px; margin-bottom: 10px;"
-     alt="Olá!">
-</a>
+📧 **Email:** alwisgabriel@gmail.com
 
 ---
 
-### 🧩 Tecnologias que estou estudando ou utilizando
+## Projects
 
-### 🖥️ Front-end 
-
-![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat\&labelColor=E34F26\&logo=html5\&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat\&labelColor=1572B6\&logo=css3\&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-232323?logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat\&labelColor=000000\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat\&labelColor=000000\&logo=typescript\&logoColor=3178C6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat\&labelColor=7952B3\&logo=bootstrap\&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/-Next.js-232323?style=flat\&labelColor=000000\&logo=nextdotjs\&logoColor=ffffff)
+- 🚧 Coming soon...
 
 ---
 
-### ⚙️ Back-end 
+## Currently Learning
 
-![Node.js](https://img.shields.io/badge/-Node.js-232323?style=flat\&labelColor=000000\&logo=nodedotjs\&logoColor=339933)
-![Rust](https://img.shields.io/badge/-Rust-232323?style=flat\&labelColor=000000\&logo=rust\&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-232323?style=flat\&labelColor=F05032\&logo=git\&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-232323?style=flat\&labelColor=000000\&logo=github\&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-232323?style=flat&labelColor=000000&logo=openjdk&logoColor=ffffff)
+### Language
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frameworks
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### ☁️ Ferramentas e Infra
+## GitHub Stats
 
-![VSCode](https://img.shields.io/badge/-VSCode-232323?style=flat\&labelColor=007ACC\&logo=visualstudiocode\&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat\&labelColor=336791\&logo=postgresql\&logoColor=ffffff)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
