@@ -36,8 +36,3 @@ Backend developer focused on building clean, scalable and reliable applications.
 
 ---
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=alwisgabriel&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alwisgabriel&layout=compact&theme=github_dark&hide_border=true)
