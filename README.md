@@ -12,6 +12,10 @@ Backend developer focused on building clean, scalable and reliable applications.
 
 - **CRM Backend**
   - [CRM backend repository](https://github.com/alwisgabriel/crm-backend)
+
+- **SENAI Projects**
+  - [Programming exercises and academic projects](https://github.com/alwisgabriel/SENAI)
+
 ---
 
 ## Currently Learning
@@ -35,4 +39,3 @@ Backend developer focused on building clean, scalable and reliable applications.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
