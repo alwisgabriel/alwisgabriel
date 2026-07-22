@@ -10,8 +10,8 @@ Backend developer focused on building clean, scalable and reliable applications.
 
 ## Projects
 
-- 🚧 Coming soon...
-
+- **CRM Backend**
+  - [CRM backend repository](https://github.com/alwisgabriel/crm-backend)
 ---
 
 ## Currently Learning
