@@ -10,32 +10,20 @@ Backend developer focused on building clean, scalable and reliable applications.
 
 ## Projects
 
-- **CRM Backend**
-  - [CRM backend repository](https://github.com/alwisgabriel/crm-backend)
-
-- **SENAI Projects**
-  - [Programming exercises and academic projects](https://github.com/alwisgabriel/SENAI)
-
----
-
-## Currently Learning
-
-### Language
-
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frameworks
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- <b>Java</b>
+  - [CRM Backend](https://github.com/alwisgabriel/crm-backend)
+- <b>SENAI Projects</b>
+  - [Programming Exercises and Academic Projects](https://github.com/alwisgabriel/SENAI)
 
 ---
+
+## 🤝 Connect with me
+
+
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
+
+[instagram]: https://instagram.com/alwisgabriel
+[email]: mailto:alwisgabriel@gmail.com
+
