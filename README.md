@@ -12,6 +12,7 @@ Backend developer focused on building clean, scalable and reliable applications.
 
 - <b>Java</b>
   - [CRM Backend](https://github.com/alwisgabriel/crm-backend)
+  - [Planejador de viagem](https://github.com/alwisgabriel/planejador-viagem)
 - <b>SENAI Projects</b>
   - [Programming Exercises and Academic Projects](https://github.com/alwisgabriel/SENAI)
 
