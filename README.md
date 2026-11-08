@@ -1,8 +1,8 @@
 <h1 align="center">Gabriel Alves</h1>
 
 <p align="center">
-  <a href="https://tenor.com/view/the-bat-signal-batman-robert-pattinson-the-batman-theyre-calling-me-gif-23486282">
-    <img src="https://media1.tenor.com/m/pI3FJ3OAztwAAAAd/the-bat-signal-batman.gif" alt="The Bat-Signal as a bat flies across the moon" width="640" />
+  <a href="https://tenor.com/view/batman-batman-watching-gotham-batman-in-the-night-animated-batman-gotham-gif-21293315">
+    <img src="https://media1.tenor.com/m/ZcKVDXV3oNQAAAAd/batman-batman-watching-gotham.gif" alt="Batman watching Gotham as lightning flashes" width="480" />
   </a>
 </p>
 
@@ -50,13 +50,3 @@
     </tr>
   </tbody>
 </table>
-
----
-
-<h2 align="center">Contributions · Last 365 days</h2>
-
-<p align="center">
-  <a href="https://github.com/alwisgabriel">
-    <img src="https://ghchart.rshah.org/F0C419/alwisgabriel" alt="GitHub contribution calendar for the last 365 days" width="100%" />
-  </a>
-</p>
