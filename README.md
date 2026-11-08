@@ -29,24 +29,24 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/alwisgabriel/crm-backend">CRM Backend</a></td>
-      <td align="center">Backend project</td>
+      <td align="center"><a href="https://github.com/alwisgabriel/planejador-viagem">Travel Planner</a></td>
+      <td align="center">Java API for AI-generated travel itineraries, built with Spring Boot, hexagonal architecture, and TDD</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/alwisgabriel/planejador-viagem">Planejador de viagem</a></td>
-      <td align="center">Travel planning project</td>
+      <td align="center"><a href="https://github.com/alwisgabriel/CRMempresarial">CRM Empresarial</a></td>
+      <td align="center">Full-stack CRM with Java, Spring Boot, React, PostgreSQL, and Docker</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/alwisgabriel/Books279B">Books 279B</a></td>
-      <td align="center">Java solution for Codeforces 279B using a sliding window</td>
+      <td align="center"><a href="https://github.com/alwisgabriel/Nucita-Lanches">Nucita Lanches</a></td>
+      <td align="center">Restaurant system for managing products, tables, and orders</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/alwisgabriel/slynx">Slynx</a></td>
+      <td align="center">Experimental UI programming language written in Rust · <a href="https://github.com/alwisgabriel/slynx-web">Website source</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/alwisgabriel/enquadra-preview">Enquadra</a></td>
-      <td align="center">Profile photo adjustment and preview prototype</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/alwisgabriel/SENAI">SENAI Projects</a></td>
-      <td align="center">Programming exercises and academic projects</td>
+      <td align="center">Browser-based profile photo adjustment and preview prototype</td>
     </tr>
   </tbody>
 </table>
