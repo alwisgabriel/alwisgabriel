@@ -1,32 +1,39 @@
-# Gabriel Alves
+<h1 align="center">Gabriel Alves</h1>
 
-**`Backend Developer`**
+<p align="center">
+  <img src="assets/gotham-signal.gif" alt="Animated Gotham skyline with a sweeping bat signal" width="100%" />
+</p>
 
-Backend developer focused on building clean, scalable and reliable applications.
+<p align="center">
+  <img src="assets/terminal-intro.gif" alt="Animated terminal introducing my backend development focus" width="78%" />
+</p>
 
-📧 **Email:** alwisgabriel@gmail.com
+<p align="center">
+  <strong>BACKEND DEVELOPER</strong> &nbsp;·&nbsp; Java &nbsp;·&nbsp; Building clean, scalable, reliable applications
+</p>
+
+<p align="center">
+  <a href="mailto:alwisgabriel@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://instagram.com/alwisgabriel">Instagram</a>
+</p>
 
 ---
 
-## Projects
+<h2 align="center">Selected Projects</h2>
 
-- <b>Java</b>
-  - [CRM Backend](https://github.com/alwisgabriel/crm-backend)
-  - [Planejador de viagem](https://github.com/alwisgabriel/planejador-viagem)
-- <b>Web</b>
-  - [Enquadra](https://github.com/alwisgabriel/enquadra-preview) — Profile photo adjustment and preview prototype.
-- <b>SENAI Projects</b>
-  - [Programming Exercises and Academic Projects](https://github.com/alwisgabriel/SENAI)
+<p align="center">
+  <img src="assets/signal-pulse.gif" alt="Animated amber signal pulse" width="58%" />
+</p>
+
+| Project | What it is |
+| --- | --- |
+| [CRM Backend](https://github.com/alwisgabriel/crm-backend) | Backend project |
+| [Planejador de viagem](https://github.com/alwisgabriel/planejador-viagem) | Travel planning project |
+| [Books 279B](https://github.com/alwisgabriel/Books279B) | Java solution for Codeforces 279B using a sliding window |
+| [Enquadra](https://github.com/alwisgabriel/enquadra-preview) | Profile photo adjustment and preview prototype |
+| [SENAI Projects](https://github.com/alwisgabriel/SENAI) | Programming exercises and academic projects |
 
 ---
 
-## 🤝 Connect with me
-
-
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-
-
-[instagram]: https://instagram.com/alwisgabriel
-[email]: mailto:alwisgabriel@gmail.com
-
+<p align="center"><sub>GOTHAM TRANSMISSION · END OF LINE</sub></p>
