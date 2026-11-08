@@ -1,16 +1,28 @@
 <h1 align="center">Gabriel Alves</h1>
 
-<p align="center">
-  <img src="assets/gotham-signal.gif" alt="Animated Gotham skyline with a sweeping bat signal" width="100%" />
-</p>
+<p align="center"><strong>BACKEND DEVELOPER · JAVA</strong></p>
 
-<p align="center">
-  <img src="assets/terminal-intro.gif" alt="Animated terminal introducing my backend development focus" width="78%" />
-</p>
+<p align="center">Building clean, scalable, reliable applications.</p>
 
-<p align="center">
-  <strong>BACKEND DEVELOPER</strong> &nbsp;·&nbsp; Java &nbsp;·&nbsp; Building clean, scalable, reliable applications
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://tenor.com/view/the-bat-signal-batman-robert-pattinson-the-batman-theyre-calling-me-gif-23486282">
+        <img src="https://media1.tenor.com/m/pI3FJ3OAztwAAAAd/the-bat-signal-batman.gif" alt="The Bat-Signal as a bat flies across the moon" width="220" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tenor.com/view/bat-signal-gif-26899554">
+        <img src="https://media1.tenor.com/m/ZfCq63joLgIAAAAM/bat-signal.gif" alt="Animated Bat-Signal glowing in the night" width="220" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tenor.com/view/batman-batman-watching-gotham-batman-in-the-night-animated-batman-gotham-gif-21293315">
+        <img src="https://media1.tenor.com/m/ZcKVDXV3oNQAAAAM/batman-batman-watching-gotham.gif" alt="Batman watching over Gotham as lightning flashes" width="220" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="mailto:alwisgabriel@gmail.com">Email</a>
@@ -21,10 +33,6 @@
 ---
 
 <h2 align="center">Selected Projects</h2>
-
-<p align="center">
-  <img src="assets/signal-pulse.gif" alt="Animated amber signal pulse" width="58%" />
-</p>
 
 | Project | What it is |
 | --- | --- |
